@@ -12,25 +12,25 @@ Your answer:
 
 Researched answer:
 
-1. What is the difference between a Float and an Integer in Ruby?
+2. What is the difference between a Float and an Integer in Ruby?
 
 Your answer:
 
 Researched answer:
 
-1. Ruby has an implicit return. What does that mean?
+3. Ruby has an implicit return. What does that mean?
 
 Your answer:
 
 Researched answer:
 
-1. What is a block in Ruby?
+4. What is a block in Ruby?
 
 Your answer:
 
 Researched answer:
 
-1. How do you extract a value in a Ruby hash?
+5. How do you extract a value in a Ruby hash?
 
 Your answer:
 
